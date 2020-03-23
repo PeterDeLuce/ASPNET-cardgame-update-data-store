@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deluceCardsPart4", "deluceCardsPart4\deluceCardsPart4.csproj", "{822CB958-2A22-4C15-9D18-5FA7861DD84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{822CB958-2A22-4C15-9D18-5FA7861DD84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822CB958-2A22-4C15-9D18-5FA7861DD84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822CB958-2A22-4C15-9D18-5FA7861DD84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822CB958-2A22-4C15-9D18-5FA7861DD84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E362CCB0-6B7B-43F5-BEA7-D55547DE449C}
+	EndGlobalSection
+EndGlobal
